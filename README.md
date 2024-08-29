@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Deployment
 - 1. enviroment
 	- install conda
@@ -45,3 +46,7 @@ a fews tests are done with timesfmhs.py, here are three plots
 
 ### Test with Sinus function
 simply run tutorial_model.py
+=======
+# timeseries_models
+compares different timeseries prediction model on different dataset
+>>>>>>> a1a48afc76019ac8f1ac2649300b6db72d325a7e
